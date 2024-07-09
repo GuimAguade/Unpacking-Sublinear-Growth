@@ -4,8 +4,7 @@ from scipy.integrate import solve_ivp
 from timeit import default_timer as timer
 from mpl_toolkits.axes_grid1 import make_axes_locatable
         
-# CODE TO EXPLORE THE STATISTICS OF STATES UNDER COMP + COOP FOR THE GENERALIZED LOTKA-VOLTERRA MODEL (Barbier et al., 2018)
-# G AGUADÉ-GORGORIÓ
+
 
 ####################### PARAMETERS AND SIMULATION VALUES ##############################
 
